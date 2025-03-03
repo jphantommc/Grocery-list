@@ -1,0 +1,45 @@
+
+
+table{
+    padding: 2px;
+    font-size: 18px;
+
+}
+
+div{
+    display:block;
+    width: 300px;
+    border: 5px solid gray;
+    text-align: left;
+    margin: 5px;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+h1{
+    color: purple;
+    text-align: center;
+}
+
+ul{
+    list-style-type: upper-roman;
+}
+
+ol{
+    list-style-type: square;
+}
+
+.center{
+    width: 200px;
+    float: left;
+    height:130px;
+    padding: 2px;
+    margin: 5px;
+}
+
+h2{
+    font-size: 20px;
+
+}
